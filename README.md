@@ -12,7 +12,7 @@ Show Image
 Show Image
 </div>
 
-🧠 About Me
+🧠 About Mee
 pythonclass Vanshika:
     def __init__(self):
         self.name       = "Vanshika"
