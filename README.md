@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-📫 Connect with me:
+### 📫 Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshika-chauhan-35a172325" target="_blank">
