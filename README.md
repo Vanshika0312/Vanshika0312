@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Vanshika Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Vanshika%20Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
 <p align="center">
