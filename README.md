@@ -1,1 +1,6 @@
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Nadeem&fontSize=40)
+![Skills](https://skillicons.dev/icons?i=js,html,css,php,python,react,nodejs,mysql,git,github,figma)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vanshika0312/&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika0312/&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vanshika0312/&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Vanshika0312/&theme=radical&row=1&column=7)
