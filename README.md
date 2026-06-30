@@ -36,6 +36,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+📫 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanshika-chauhan-35a172325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chauhanvanshika826@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vanshika0312&style=flat-square&color=blue" />
 </p>
